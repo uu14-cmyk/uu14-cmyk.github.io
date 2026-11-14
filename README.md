@@ -23,7 +23,7 @@ Alternative: `quarto publish gh-pages` (builds and pushes to a `gh-pages` branch
 Add a `CNAME` file containing your domain to the project root, list it under `resources:` in `_quarto.yml` so it lands in `docs/`, then set the domain in Settings -> Pages and configure DNS.
 
 ## To fill in
-Name, bio, headshot (`images/headshot.svg`, or swap in a JPG and update `index.qmd`), LinkedIn URL, email, `files/resume.pdf`, and project content.
+Name, bio, headshot (`images/headshot.jpg`), LinkedIn URL, email, `files/resume.pdf`, and project content.
 
 ## Publishing updates (easy way)
 1. Save your changes to the site files.

@@ -2,7 +2,7 @@
 title: "Urvashi Suraj"
 about:
   template: trestles
-  image: images/Urvashi headshot.jpg
+  image: images/headshot.jpeg
   image-alt: "Urvashi headshot"
   links:
     - icon: github

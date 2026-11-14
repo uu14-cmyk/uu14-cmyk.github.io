@@ -3,6 +3,7 @@ title: "Sample Project"
 description: "[PLACEHOLDER] One-sentence summary of what this project shows."
 date: 2026-01-15
 draft: true
+order: 9
 categories: [Example, Visualization]
 image: thumbnail.svg
 ---

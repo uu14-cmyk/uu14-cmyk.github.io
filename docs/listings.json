@@ -1,12 +1,19 @@
 [
   {
-    "listing": "/portfolio.html",
-    "items": [
-      "/projects/afrobarometer-healthcare-access/index.html"
-    ]
-  },
-  {
     "listing": "/blog.html",
     "items": []
+  },
+  {
+    "listing": "/portfolio.html",
+    "items": [
+      "/projects/afrobarometer-healthcare-access/index.html",
+      "/projects/bcg-child-mortality-bangladesh/index.html",
+      "/projects/credit-access-income-groups/index.html",
+      "/projects/gdp-vs-mental-wellbeing/index.html",
+      "/projects/antenatal-care-bangladesh/index.html",
+      "/projects/womens-bank-accounts-density/index.html",
+      "/projects/womens-bank-accounts-regions/index.html",
+      "/projects/energy-access-sub-saharan-africa/index.html"
+    ]
   }
 ]

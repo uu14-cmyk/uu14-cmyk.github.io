@@ -42,6 +42,132 @@
     "text": "Selected Projects\n\n[PLACEHOLDER] Sample Project: one-line description"
   },
   {
+    "objectID": "projects/womens-bank-accounts-density/index.html",
+    "href": "projects/womens-bank-accounts-density/index.html",
+    "title": "High Income Countries Approach Universal Women’s Bank Account Ownership; but Progress for Lower Income Countries Remains Slow",
+    "section": "",
+    "text": "Faceted density plot of the share of women who own a bank account, by country income group, for 2011, 2017, 2021 and 2024."
+  },
+  {
+    "objectID": "projects/womens-bank-accounts-density/index.html#purpose-audience",
+    "href": "projects/womens-bank-accounts-density/index.html#purpose-audience",
+    "title": "High Income Countries Approach Universal Women’s Bank Account Ownership; but Progress for Lower Income Countries Remains Slow",
+    "section": "Purpose & audience",
+    "text": "Purpose & audience\nThis visualization looks at how the share of women with bank accounts has shifted across countries at different income levels, from 2011 to 2024, using data from the World Bank’s Global Findex Database. The audience again are policy stakeholders and development researchers. The purpose is to show that progress on women’s financial access has not been evenly distributed. High income countries show a sharp rightward shift in their distribution after 2021, likely due to payment digitization during and after the COVID-19 pandemic. Despite the expansion of mobile money in Sub-Saharan Africa from around 2014, low income countries show little movement in the share of women who own bank accounts across the 4 survey years."
+  },
+  {
+    "objectID": "projects/womens-bank-accounts-density/index.html#sources",
+    "href": "projects/womens-bank-accounts-density/index.html#sources",
+    "title": "High Income Countries Approach Universal Women’s Bank Account Ownership; but Progress for Lower Income Countries Remains Slow",
+    "section": "Sources",
+    "text": "Sources\n\nGlobal Findex Database (World Bank)"
+  },
+  {
+    "objectID": "projects/gdp-vs-mental-wellbeing/index.html",
+    "href": "projects/gdp-vs-mental-wellbeing/index.html",
+    "title": "Economic performance is a poor proxy for mental wellbeing across world regions (2000-2022)",
+    "section": "",
+    "text": "Two heatmaps by income group, 2000-2022: GDP per capita growth rate (top) and suicide mortality rate per 100,000 (bottom)."
+  },
+  {
+    "objectID": "projects/gdp-vs-mental-wellbeing/index.html#purpose-audience",
+    "href": "projects/gdp-vs-mental-wellbeing/index.html#purpose-audience",
+    "title": "Economic performance is a poor proxy for mental wellbeing across world regions (2000-2022)",
+    "section": "Purpose & audience",
+    "text": "Purpose & audience\nThis visualization is intended for policymakers and mental health researchers, and is designed to be accessible with limited prior technical knowledge if any. The two heatmaps intend to show the disconnect between economic performance and mental health outcomes across income groups from 2000 to 2022. GDP per capita growth rates fluctuate sharply, with notable contractions in 2008 (due to the financial crisis) and 2020 (due to the COVID-19 pandemic). At the same time, suicide mortality rates remain more or less the same or decline only gradually over the same period. High income countries, despite steady economic recovery after 2010, record some of the highest suicide mortality rates globally."
+  },
+  {
+    "objectID": "projects/gdp-vs-mental-wellbeing/index.html#sources",
+    "href": "projects/gdp-vs-mental-wellbeing/index.html#sources",
+    "title": "Economic performance is a poor proxy for mental wellbeing across world regions (2000-2022)",
+    "section": "Sources",
+    "text": "Sources\n\nWorld Bank open database: NY.GDP.PCAP.KD.ZG\nWorld Bank open database: SH.STA.SUIC.P5"
+  },
+  {
+    "objectID": "projects/credit-access-income-groups/index.html",
+    "href": "projects/credit-access-income-groups/index.html",
+    "title": "Global credit access has grown unevenly across income groups (1990-2024)",
+    "section": "",
+    "text": "Line chart of domestic private sector credit as a % of GDP, 1990-2024, for high, upper middle, lower middle and low income countries and China."
+  },
+  {
+    "objectID": "projects/credit-access-income-groups/index.html#purpose-audience",
+    "href": "projects/credit-access-income-groups/index.html#purpose-audience",
+    "title": "Global credit access has grown unevenly across income groups (1990-2024)",
+    "section": "Purpose & audience",
+    "text": "Purpose & audience\nThis visualization is intended for policymakers, economists and the general public, and is meant to be accessible without prior technical knowledge. The line chart tracks domestic credit to the private sector as a percentage of GDP across four World Bank income groups and China from 1990 to 2024. While high income countries have maintained consistently high credit levels throughout the period, the most striking trend is China’s rapid expansion since 2008, which has seen it surpass high income averages and approach 200% of GDP by 2024, thus also driving the remarkable growth we see in the upper middle income credit levels.\nAt the same time, low income countries have roughly under 15% throughout with hardly any increase."
+  },
+  {
+    "objectID": "projects/credit-access-income-groups/index.html#sources",
+    "href": "projects/credit-access-income-groups/index.html#sources",
+    "title": "Global credit access has grown unevenly across income groups (1990-2024)",
+    "section": "Sources",
+    "text": "Sources\n\nWorld Bank open database: FS.AST.PRVT.GD.ZS"
+  },
+  {
+    "objectID": "projects/antenatal-care-bangladesh/index.html",
+    "href": "projects/antenatal-care-bangladesh/index.html",
+    "title": "Antenatal Care Coverage in Rural and Urban Bangladesh over the Decades",
+    "section": "",
+    "text": "Faceted line chart of antenatal care coverage among pregnant women in Bangladesh, rural versus urban, for no visits, one visit and four or more visits (WHO recommended)."
+  },
+  {
+    "objectID": "projects/antenatal-care-bangladesh/index.html#purpose-audience",
+    "href": "projects/antenatal-care-bangladesh/index.html#purpose-audience",
+    "title": "Antenatal Care Coverage in Rural and Urban Bangladesh over the Decades",
+    "section": "Purpose & audience",
+    "text": "Purpose & audience\nThis visualization is intended for public health policymakers, maternal health advocates, and the general public. It is designed to be interpreted even without deep statistical expertise. The faceted line chart tracks antenatal care (ANC) coverage among pregnant women in Bangladesh from the mid-1990s to the early 2020s, disaggregated by rural and urban residence across three levels of care:\n\nno visits,\none visit, and\nfour or more visits. (this being the WHO-recommended standard).\n\nWhat we see is a persistent and meaningful urban-rural gap. Rural women have historically been far more likely to receive no antenatal care at all, while urban women are consistently more likely to achieve the WHO-recommended threshold of four or more visits. Although both groups show improvement over time, the gap has not closed. By the early 2020s, rural women still fall behind urban women on adequate care coverage by roughly 20 percentage points."
+  },
+  {
+    "objectID": "projects/antenatal-care-bangladesh/index.html#sources",
+    "href": "projects/antenatal-care-bangladesh/index.html#sources",
+    "title": "Antenatal Care Coverage in Rural and Urban Bangladesh over the Decades",
+    "section": "Sources",
+    "text": "Sources\n\ndata.unicef.org/topic/maternal-health/antenatal-care"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Urvashi Suraj",
+    "section": "",
+    "text": "Development sector and finance professional with over 5 years of experience in social protection in India, currently a policy student at Georgetown University with a focus on development economics. I have a background in partnerships and impact assessments, with experience applying quantitative and qualitative methods to inform program design."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Urvashi Suraj",
+    "section": "Education",
+    "text": "Education\n\nMaster of International Development Policy, Georgetown University, 2027\nChartered Accountant, Institute of Chartered Accountants of India, 2020"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Urvashi Suraj",
+    "section": "Experience",
+    "text": "Experience\n\nResearch Assistant, Georgetown University Initiative on Innovation Development and Evaluation (Gui2de) (Jan 2026 - Present): one-line summary\nCenter for Public and Nonprofit Leadership at Georgetown University, (Aug 2026 - Present): one-line summary"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Urvashi Suraj",
+    "section": "Skills",
+    "text": "Skills\n\nData Analysis: Quantitative impact evaluation methods, qualitative methods, cost-effectiveness analysis, data visualization, Python, Stata, R, Excel, Tableau, Survey CTO\nManagement: Business development, strategic partnerships, stakeholder management"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Bribes and Broken Roads May Be Bigger Barriers to Healthcare Than Distance Alone\n\n\n\nHealth\n\nAfrica\n\nSurvey data\n\nR\n\nTableau\n\n\n\nA data story using Afrobarometer Round 9 (2021-23) on why proximity to a clinic does not guarantee access to care in Africa.\n\n\n\n\n\n\n\n\n\n\n\n\nRising BCG Coverage in Bangladesh Coincided with a Sharp Decline in Child Mortality\n\n\n\nChild health\n\nSouth Asia\n\nR\n\n\n\nA connected scatterplot of Bangladesh from 1981 to 2024 showing that child mortality fell most dramatically once BCG vaccination coverage passed 85%.\n\n\n\n\n\n\n\n\n\n\n\n\nGlobal credit access has grown unevenly across income groups (1990-2024)\n\n\n\nFinance\n\nGlobal\n\nR\n\n\n\nA line chart of domestic private sector credit as a share of GDP across four World Bank income groups and China, showing China’s rapid expansion since 2008 while low income…\n\n\n\n\n\n\n\n\n\n\n\n\nEconomic performance is a poor proxy for mental wellbeing across world regions (2000-2022)\n\n\n\nMental health\n\nGlobal\n\nR\n\n\n\nTwo heatmaps contrasting GDP per capita growth with suicide mortality by income group, showing that high income, stable economies record persistently higher suicide…\n\n\n\n\n\n\n\n\n\n\n\n\nAntenatal Care Coverage in Rural and Urban Bangladesh over the Decades\n\n\n\nMaternal health\n\nSouth Asia\n\nR\n\n\n\nA faceted line chart of antenatal care in Bangladesh by rural and urban residence, showing a persistent urban-rural gap in women receiving the WHO-recommended four or more…\n\n\n\n\n\n\n\n\n\n\n\n\nHigh Income Countries Approach Universal Women’s Bank Account Ownership; but Progress for Lower Income Countries Remains Slow\n\n\n\nFinance\n\nGender\n\nGlobal\n\nR\n\n\n\nA faceted density plot of women’s bank account ownership by income group from 2011 to 2024, showing that progress on women’s financial access has not been evenly distributed.\n\n\n\n\n\n\n\n\n\n\n\n\nWomen’s Bank Account Ownership Has Risen Globally But Unevenly (2011-2024)\n\n\n\nFinance\n\nGender\n\nGlobal\n\nR\n\n\n\nBoxplots of female bank account ownership across World Bank regions in 2011 and 2024, showing that progress has been largely uneven across regions.\n\n\n\n\n\n\n\n\n\n\n\n\nElectricity and Clean Cooking Access Are Both Far From Universal in Sub-Saharan Africa\n\n\n\nEnergy\n\nAfrica\n\nGlobal\n\nR\n\n\n\nA diverging bar chart comparing urban and rural access to electricity and clean cooking fuels across regions, with Sub-Saharan Africa showing the starkest divide.\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "projects/afrobarometer-healthcare-access/index.html",
     "href": "projects/afrobarometer-healthcare-access/index.html",
     "title": "Bribes and Broken Roads May Be Bigger Barriers to Healthcare Than Distance Alone",
@@ -84,45 +210,73 @@
     "text": "Data and tools\n\nData: Afrobarometer Round 9 (2021-23)\nTools: R for the static charts; Tableau for the interactive map"
   },
   {
-    "objectID": "portfolio.html",
-    "href": "portfolio.html",
-    "title": "Portfolio",
+    "objectID": "projects/afrobarometer-healthcare-access/index.html#chart-design-notes",
+    "href": "projects/afrobarometer-healthcare-access/index.html#chart-design-notes",
+    "title": "Bribes and Broken Roads May Be Bigger Barriers to Healthcare Than Distance Alone",
+    "section": "Chart design notes",
+    "text": "Chart design notes\nHeatmap (what patients experience at a public clinic). This visualization is intended for a general audience of readers, policymakers, and global health advocates. It uses a waffle-style heat tile map to show self-reported negative experiences in public health facilities across selected countries, based on Afrobarometer Round 9 data. Countries are listed alongside key issues such as long wait times, unofficial payments, and medicine shortages, with each tile representing the share of respondents reporting each experience. Darker shades indicate higher prevalence, allowing quick comparison across countries and types of service failures, highlighting differences in quality of care that patients experience.\nDumbbell chart (clinic nearby versus care received). This visualization is intended for a general audience of readers, policymakers, and global health advocates. It uses a dumbbell plot to compare the proportion of communities with a health clinic within walking distance against the share of households reporting they received needed medical care across selected African countries. The purpose of this visualization is to challenge the assumption that geographic access to clinics alone is sufficient for people to receive care when they need it. It highlights that improving health outcomes requires not just building facilities closer to people, but ensuring that those facilities are usable, trusted, and able to meet demand.\nInteractive map (difficulty accessing care). This visualization is intended for a general audience of readers, policymakers, and global health advocates. It uses an interactive map to show the share of people reporting difficulty accessing healthcare after visiting a public clinic, alongside average road quality by country. The map highlights how infrastructure shapes access to care. Countries with poorer road conditions, such as Zimbabwe, tend to report higher difficulty accessing services, though the relationship is not consistent across all contexts. Differences between rural and urban areas also vary widely, with no uniform pattern across countries. The purpose of this visualization is to show that access to healthcare depends not only on distance to facilities, but also on the quality of infrastructure.\nSource for all three: Afrobarometer Round 9 Survey Data, afrobarometer.org/surveys-and-datasets/round-9-data"
+  },
+  {
+    "objectID": "projects/bcg-child-mortality-bangladesh/index.html",
+    "href": "projects/bcg-child-mortality-bangladesh/index.html",
+    "title": "Rising BCG Coverage in Bangladesh Coincided with a Sharp Decline in Child Mortality",
     "section": "",
-    "text": "Bribes and Broken Roads May Be Bigger Barriers to Healthcare Than Distance Alone\n\n\n\nHealth\n\nAfrica\n\nSurvey data\n\nR\n\nTableau\n\n\n\nA data story using Afrobarometer Round 9 (2021-23) on why proximity to a clinic does not guarantee access to care in Africa.\n\n\n\nNov 13, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Connected scatterplot of BCG vaccination rate (%) against under-5 mortality rate per 1,000 for Bangladesh, 1981-2024, with an 85% coverage threshold marked."
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
+    "objectID": "projects/bcg-child-mortality-bangladesh/index.html#purpose-audience",
+    "href": "projects/bcg-child-mortality-bangladesh/index.html#purpose-audience",
+    "title": "Rising BCG Coverage in Bangladesh Coincided with a Sharp Decline in Child Mortality",
+    "section": "Purpose & audience",
+    "text": "Purpose & audience\nThis visualization is intended for public health policymakers and global health advocates, and is designed to be accessible to audiences with limited technical knowledge. The scatterplot, connected by a line, highlights Bangladesh’s trajectory from 1981 to 2024, showing the relationship between BCG vaccination coverage and under-5 mortality rates over time. The chart indicates that as vaccination rates rose from close to zero to above 85%, child mortality fell dramatically, from over 200 deaths per 1,000 to roughly 20. However, the steepest decline occurs after Bangladesh crosses the 85% vaccine coverage threshold. The intended takeaway is that improving vaccine coverage, particularly past critical thresholds, is one of the most effective levers available for reducing child mortality."
+  },
+  {
+    "objectID": "projects/bcg-child-mortality-bangladesh/index.html#sources",
+    "href": "projects/bcg-child-mortality-bangladesh/index.html#sources",
+    "title": "Rising BCG Coverage in Bangladesh Coincided with a Sharp Decline in Child Mortality",
+    "section": "Sources",
+    "text": "Sources\n\nUNICEF Child Health and Immunization Database: data.unicef.org/topic/child-health/immunization\nwww.childmortality.org"
+  },
+  {
+    "objectID": "projects/energy-access-sub-saharan-africa/index.html",
+    "href": "projects/energy-access-sub-saharan-africa/index.html",
+    "title": "Electricity and Clean Cooking Access Are Both Far From Universal in Sub-Saharan Africa",
     "section": "",
-    "text": "No matching items"
+    "text": "Diverging bar chart of the percentage of population with access to clean cooking fuels and to electricity, urban versus rural, by world region."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Urvashi Suraj",
+    "objectID": "projects/energy-access-sub-saharan-africa/index.html#purpose-audience",
+    "href": "projects/energy-access-sub-saharan-africa/index.html#purpose-audience",
+    "title": "Electricity and Clean Cooking Access Are Both Far From Universal in Sub-Saharan Africa",
+    "section": "Purpose & audience",
+    "text": "Purpose & audience\nThis visualization is intended for policymakers, development practitioners, and anyone interested in global energy access. It compares access to electricity and clean cooking fuels across regions, and is further broken down by urban and rural populations. The goal is to show how access differs not just across regions, but also between electricity and clean cooking and to highlight gaps in household energy access. So while electricity access is almost identical between rural and urban areas for most world regions, clean cooking access remains significantly lower and depends on urbanisation levels. Sub-Saharan Africa specifically sees a stark divide in rural vs urban and also access to electricity vs clean cooking fuel when compared to the rest of the world."
+  },
+  {
+    "objectID": "projects/energy-access-sub-saharan-africa/index.html#sources",
+    "href": "projects/energy-access-sub-saharan-africa/index.html#sources",
+    "title": "Electricity and Clean Cooking Access Are Both Far From Universal in Sub-Saharan Africa",
+    "section": "Sources",
+    "text": "Sources\n\nWorld Bank, World Development Indicators, SE4ALL: data360.worldbank.org/en/dataset/WB_SE4ALL"
+  },
+  {
+    "objectID": "projects/womens-bank-accounts-regions/index.html",
+    "href": "projects/womens-bank-accounts-regions/index.html",
+    "title": "Women’s Bank Account Ownership Has Risen Globally But Unevenly (2011-2024)",
     "section": "",
-    "text": "Development sector and finance professional with over 5 years of experience in social protection in India, currently a policy student at Georgetown University with a focus on development economics. I have a background in partnerships and impact assessments, with experience applying quantitative and qualitative methods to inform program design."
+    "text": "Boxplots of the percentage of women with a bank account by World Bank region, 2011 versus 2024."
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Urvashi Suraj",
-    "section": "Education",
-    "text": "Education\n\nMaster of International Development Policy, Georgetown University, 2027\nChartered Accountant, Institute of Chartered Accountants of India, 2020"
+    "objectID": "projects/womens-bank-accounts-regions/index.html#purpose-audience",
+    "href": "projects/womens-bank-accounts-regions/index.html#purpose-audience",
+    "title": "Women’s Bank Account Ownership Has Risen Globally But Unevenly (2011-2024)",
+    "section": "Purpose & audience",
+    "text": "Purpose & audience\nThis visualization presents female bank account ownership rates across World Bank regions in 2011 and 2024. The intended audience is policymakers and development researchers (not the layperson) interested in the topic of women’s financial inclusion. The purpose is to support the point that while account ownership has expanded globally over the past thirteen years, progress has been largely uneven across geographical regions. Some regions like South and East Asia recorded dramatic gains in the median while some like the Middle East and North Africa have barely moved. The audience should be able to compare both the level and spread of ownership rates within regions, and point out the regions in which distributions have shifted versus remained flat."
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Urvashi Suraj",
-    "section": "Experience",
-    "text": "Experience\n\nResearch Assistant, Georgetown University Initiative on Innovation Development and Evaluation (Gui2de) (Jan 2026 - Present): one-line summary\nCenter for Public and Nonprofit Leadership at Georgetown University, (Aug 2026 - Present): one-line summary"
-  },
-  {
-    "objectID": "index.html#skills",
-    "href": "index.html#skills",
-    "title": "Urvashi Suraj",
-    "section": "Skills",
-    "text": "Skills\n\nData Analysis: Quantitative impact evaluation methods, qualitative methods, cost-effectiveness analysis, data visualization, Python, Stata, R, Excel, Tableau, Survey CTO\nManagement: Business development, strategic partnerships, stakeholder management"
+    "objectID": "projects/womens-bank-accounts-regions/index.html#sources",
+    "href": "projects/womens-bank-accounts-regions/index.html#sources",
+    "title": "Women’s Bank Account Ownership Has Risen Globally But Unevenly (2011-2024)",
+    "section": "Sources",
+    "text": "Sources\n\nGlobal Findex Database (World Bank)"
   }
 ]

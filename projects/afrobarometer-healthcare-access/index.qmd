@@ -2,7 +2,7 @@
 title: "Bribes and Broken Roads May Be Bigger Barriers to Healthcare Than Distance Alone"
 description: "A data story using Afrobarometer Round 9 (2021-23) on why proximity to a clinic does not guarantee access to care in Africa."
 author: "Urvashi Suraj"
-date: 2026-11-13
+order: 1
 categories: [Health, Africa, Survey data, R, Tableau]
 image: thumbnail.png
 ---
@@ -49,3 +49,13 @@ What the data does suggest is that healthcare access in Africa is not easily gen
 
 - **Data:** Afrobarometer Round 9 (2021-23)
 - **Tools:** R for the static charts; Tableau for the interactive map
+
+## Chart design notes
+
+**Heatmap (what patients experience at a public clinic).** This visualization is intended for a general audience of readers, policymakers, and global health advocates. It uses a waffle-style heat tile map to show self-reported negative experiences in public health facilities across selected countries, based on Afrobarometer Round 9 data. Countries are listed alongside key issues such as long wait times, unofficial payments, and medicine shortages, with each tile representing the share of respondents reporting each experience. Darker shades indicate higher prevalence, allowing quick comparison across countries and types of service failures, highlighting differences in quality of care that patients experience.
+
+**Dumbbell chart (clinic nearby versus care received).** This visualization is intended for a general audience of readers, policymakers, and global health advocates. It uses a dumbbell plot to compare the proportion of communities with a health clinic within walking distance against the share of households reporting they received needed medical care across selected African countries. The purpose of this visualization is to challenge the assumption that geographic access to clinics alone is sufficient for people to receive care when they need it. It highlights that improving health outcomes requires not just building facilities closer to people, but ensuring that those facilities are usable, trusted, and able to meet demand.
+
+**Interactive map (difficulty accessing care).** This visualization is intended for a general audience of readers, policymakers, and global health advocates. It uses an interactive map to show the share of people reporting difficulty accessing healthcare after visiting a public clinic, alongside average road quality by country. The map highlights how infrastructure shapes access to care. Countries with poorer road conditions, such as Zimbabwe, tend to report higher difficulty accessing services, though the relationship is not consistent across all contexts. Differences between rural and urban areas also vary widely, with no uniform pattern across countries. The purpose of this visualization is to show that access to healthcare depends not only on distance to facilities, but also on the quality of infrastructure.
+
+Source for all three: Afrobarometer Round 9 Survey Data, [afrobarometer.org/surveys-and-datasets/round-9-data](https://www.afrobarometer.org/surveys-and-datasets/round-9-data/)

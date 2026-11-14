@@ -3,9 +3,9 @@ title: "Portfolio"
 listing:
   contents: projects/*/index.qmd
   type: grid
-  sort: "date desc"
+  sort: "order"
   categories: true
-  fields: [image, title, description, date, categories]
+  fields: [image, title, description, categories]
   grid-columns: 3
 page-layout: full
 ---
