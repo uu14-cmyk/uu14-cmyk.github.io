@@ -1,0 +1,28 @@
+---
+title: "Resume"
+---
+
+[Download PDF](files/resume.pdf){.btn .btn-primary .btn-resume}
+
+## Summary
+
+[PLACEHOLDER] Two to three sentences summarizing your experience and focus.
+
+## Experience
+
+**[PLACEHOLDER] Job Title**, Organization, *Start - End*
+
+- Accomplishment with a quantified result
+- Accomplishment with a quantified result
+
+## Education
+
+**[PLACEHOLDER] Degree**, Georgetown University, *Year*
+
+## Skills
+
+- [PLACEHOLDER] R, Python, SQL, Tableau, Observable Plot
+
+## Selected Projects
+
+- [PLACEHOLDER] [Sample Project](projects/sample-project/index.qmd): one-line description

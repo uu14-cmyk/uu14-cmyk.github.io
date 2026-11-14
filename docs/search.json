@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download PDF"
+  },
+  {
+    "objectID": "resume.html#summary",
+    "href": "resume.html#summary",
+    "title": "Resume",
+    "section": "Summary",
+    "text": "Summary\n[PLACEHOLDER] Two to three sentences summarizing your experience and focus."
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Resume",
+    "section": "Experience",
+    "text": "Experience\n[PLACEHOLDER] Job Title, Organization, Start - End\n\nAccomplishment with a quantified result\nAccomplishment with a quantified result"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\n[PLACEHOLDER] Degree, Georgetown University, Year"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Resume",
+    "section": "Skills",
+    "text": "Skills\n\n[PLACEHOLDER] R, Python, SQL, Tableau, Observable Plot"
+  },
+  {
+    "objectID": "resume.html#selected-projects",
+    "href": "resume.html#selected-projects",
+    "title": "Resume",
+    "section": "Selected Projects",
+    "text": "Selected Projects\n\n[PLACEHOLDER] Sample Project: one-line description"
+  },
+  {
+    "objectID": "projects/afrobarometer-healthcare-access/index.html",
+    "href": "projects/afrobarometer-healthcare-access/index.html",
+    "title": "Bribes and Broken Roads May Be Bigger Barriers to Healthcare Than Distance Alone",
+    "section": "",
+    "text": "Download the full data story (PDF)\nWhen it comes to healthcare, the right infrastructure can mean the difference between life and death. But what happens when the infrastructure exists on paper but millions still go without care? Data collected through Round 9 of the Afrobarometer survey (2021-23) reveals a sharp disconnect across 39 countries in Africa. Bad roads can make the journey to accessing health facilities arduous, but the story doesn’t necessarily end there. For those who make it to a clinic, their experience there might matter just as much, if not more. Of the many factors that affect health-seeking behaviour, this story examines two possible explanations for low uptake of healthcare services in countries on the African continent."
+  },
+  {
+    "objectID": "projects/afrobarometer-healthcare-access/index.html#proximity-to-a-clinic-doesnt-guarantee-access-to-medicines-or-medical-treatment",
+    "href": "projects/afrobarometer-healthcare-access/index.html#proximity-to-a-clinic-doesnt-guarantee-access-to-medicines-or-medical-treatment",
+    "title": "Bribes and Broken Roads May Be Bigger Barriers to Healthcare Than Distance Alone",
+    "section": "Proximity to a clinic doesn’t guarantee access to medicines or medical treatment",
+    "text": "Proximity to a clinic doesn’t guarantee access to medicines or medical treatment\nData shows that having a health clinic within walking distance does not automatically translate to access to medical care. In Cameroon, for instance, over 85% of communities had a clinic nearby, however, nearly 75% of households still reported going without medicines or medical treatment in the past 12 months. In contrast, Mauritius, one of Africa’s higher-income countries, shows nearly equal shares of clinic access and care received. It offers a glimpse of what the relationship between proximity and care could look like.\n\n\n\nDumbbell chart comparing, for 15 African countries, the share of communities with a clinic nearby and the share of households that received care. Cameroon, Senegal and Tunisia have the highest clinic access; Mauritius shows nearly equal shares.\n\n\nPerhaps more relevant to understanding why people go without care is to ask: what happens once you do get to the clinic?"
+  },
+  {
+    "objectID": "projects/afrobarometer-healthcare-access/index.html#patient-experiences-highlight-troubling-realities-in-public-clinics",
+    "href": "projects/afrobarometer-healthcare-access/index.html#patient-experiences-highlight-troubling-realities-in-public-clinics",
+    "title": "Bribes and Broken Roads May Be Bigger Barriers to Healthcare Than Distance Alone",
+    "section": "Patient experiences highlight troubling realities in public clinics",
+    "text": "Patient experiences highlight troubling realities in public clinics\nResponses regarding experiences with the healthcare system provide some striking insight into the various challenges patients encounter. Of those who sought care at a public clinic, 1 in 2 in Liberia and Sierra Leone paid a bribe to healthcare workers in order to access care. A shockingly large share also reported medicines being unavailable and facing long wait times. The lack of respect also emerged as a theme in some countries. In Malawi, over 60% of patients reported not being treated with respect by healthcare workers or clinic staff. It is reasonable to assume that feeling disrespected discourages return visits, and this may be especially true for women and vulnerable groups who already face social barriers to seeking care.\n\n\n\nHeatmap of the percentage of public-clinic patients in 10 countries who experienced long wait times, unavailable medicines, disrespect, paying a bribe, and poor facilities."
+  },
+  {
+    "objectID": "projects/afrobarometer-healthcare-access/index.html#where-you-live-within-a-country-could-shape-your-access-to-care",
+    "href": "projects/afrobarometer-healthcare-access/index.html#where-you-live-within-a-country-could-shape-your-access-to-care",
+    "title": "Bribes and Broken Roads May Be Bigger Barriers to Healthcare Than Distance Alone",
+    "section": "Where You Live Within a Country Could Shape Your Access to Care",
+    "text": "Where You Live Within a Country Could Shape Your Access to Care\nWhether roads are passable determines whether a clinic within walking distance is truly accessible. The interactive map allows readers to explore road quality by country (by hovering on a country) and while the relationship between road conditions and difficulty accessing care is not uniform, countries at the harder end of the access spectrum like Zimbabwe, have relatively lower average road quality scores.\nFiltering by rural and urban area does not reveal any clear patterns either. In some countries urban residents report greater difficulty accessing care than rural ones (eg. Zimbabwe); in others the reverse is true (eg. Sudan).\n\n\n\nChoropleth map of Africa showing the percentage of patients who found it difficult to access medical care, by country, with a settlement-type filter (static screenshot of the interactive Tableau map)."
+  },
+  {
+    "objectID": "projects/afrobarometer-healthcare-access/index.html#the-missing-piece",
+    "href": "projects/afrobarometer-healthcare-access/index.html#the-missing-piece",
+    "title": "Bribes and Broken Roads May Be Bigger Barriers to Healthcare Than Distance Alone",
+    "section": "The Missing Piece",
+    "text": "The Missing Piece\nWhat the data does suggest is that healthcare access in Africa is not easily generalisable. Distance alone is not the biggest constraint. Where you live matters, but patient experiences, availability of medicines, corruption and poor roads all build on each other in ways that a single indicator cannot and does not capture. So until facility capacity, quality of care and supporting infrastructure move forward together, access in theory and the care received in practice will remain two very different things."
+  },
+  {
+    "objectID": "projects/afrobarometer-healthcare-access/index.html#data-and-tools",
+    "href": "projects/afrobarometer-healthcare-access/index.html#data-and-tools",
+    "title": "Bribes and Broken Roads May Be Bigger Barriers to Healthcare Than Distance Alone",
+    "section": "Data and tools",
+    "text": "Data and tools\n\nData: Afrobarometer Round 9 (2021-23)\nTools: R for the static charts; Tableau for the interactive map"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Bribes and Broken Roads May Be Bigger Barriers to Healthcare Than Distance Alone\n\n\n\nHealth\n\nAfrica\n\nSurvey data\n\nR\n\nTableau\n\n\n\nA data story using Afrobarometer Round 9 (2021-23) on why proximity to a clinic does not guarantee access to care in Africa.\n\n\n\nNov 13, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Urvashi Suraj",
+    "section": "",
+    "text": "[PLACEHOLDER] Short bio: I am a data analyst and data visualization specialist with a background in health-care quality research at Georgetown. I turn complex data into clear, actionable stories."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Urvashi Suraj",
+    "section": "Education",
+    "text": "Education\n\n[PLACEHOLDER] Degree, Georgetown University, Year\n[PLACEHOLDER] Degree, Institution, Year"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Urvashi Suraj",
+    "section": "Experience",
+    "text": "Experience\n\n[PLACEHOLDER] Job Title, Organization (Start - End): one-line summary\n[PLACEHOLDER] Job Title, Organization (Start - End): one-line summary"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Urvashi Suraj",
+    "section": "Skills",
+    "text": "Skills\n\n[PLACEHOLDER] Analysis: R, Python, SQL\n[PLACEHOLDER] Visualization: ggplot2, Tableau, Observable Plot\n[PLACEHOLDER] Domain: health-care quality measurement, outcomes research"
+  }
+]

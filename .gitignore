@@ -1,0 +1,14 @@
+/.quarto/
+/_freeze/
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+*.quarto_ipynb
+# docs/ is intentionally NOT ignored (GitHub Pages serves from /docs)
+
+**/*.quarto_ipynb

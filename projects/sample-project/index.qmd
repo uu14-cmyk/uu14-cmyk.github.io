@@ -1,0 +1,60 @@
+---
+title: "Sample Project"
+description: "[PLACEHOLDER] One-sentence summary of what this project shows."
+date: 2026-01-15
+draft: true
+categories: [Example, Visualization]
+image: thumbnail.svg
+---
+
+## The question
+
+[PLACEHOLDER] What question were you trying to answer, and why does it matter?
+
+## Data
+
+[PLACEHOLDER] Source, time period, size, and any cleaning steps. The chart below uses **made-up example data only**.
+
+## Approach
+
+[PLACEHOLDER] Methods and tools used.
+
+## Visualization
+
+```{ojs}
+//| echo: false
+// EXAMPLE DATA (made up) - replace with your own
+data = [
+  {year: 2019, rate: 12.1},
+  {year: 2020, rate: 11.4},
+  {year: 2021, rate: 10.8},
+  {year: 2022, rate: 9.9},
+  {year: 2023, rate: 9.2}
+]
+Plot.plot({
+  title: "Example data: readmission rate (%) by year",
+  y: {grid: true, label: "Rate (%)", domain: [0, 14]},
+  x: {label: "Year", tickFormat: "d"},
+  marks: [
+    Plot.barY(data, {x: "year", y: "rate", fill: "steelblue"}),
+    Plot.ruleY([0])
+  ]
+})
+```
+
+<!--
+NOTE: To use R or Python instead of OJS (requires R or Python + Jupyter installed),
+replace the ojs chunk above with a chunk whose language is r or python
+(write the opening fence as three backticks followed by {r} or {python}),
+for example in R: library(ggplot2); ggplot(df, aes(year, rate)) + geom_col()
+or in Python: import matplotlib.pyplot as plt; plt.bar(years, rates)
+-->
+
+## Takeaways
+
+- [PLACEHOLDER] Key finding 1
+- [PLACEHOLDER] Key finding 2
+
+## Code
+
+[PLACEHOLDER: link to GitHub repo](https://github.com/uu14-cmyk)

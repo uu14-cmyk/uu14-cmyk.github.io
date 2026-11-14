@@ -1,0 +1,14 @@
+/*-- scss:rules --*/
+.quarto-grid-item.card {
+  border-radius: 12px;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.quarto-grid-item.card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+.quarto-grid-item .card-img-top {
+  object-fit: cover;
+  height: 180px;
+}
+.btn-resume { margin: 0.5rem 0 1.5rem; }

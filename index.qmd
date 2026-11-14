@@ -1,0 +1,35 @@
+---
+title: "Urvashi Suraj"
+about:
+  template: trestles
+  image: images/headshot.svg
+  image-alt: "Placeholder headshot"
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/uu14-cmyk
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/your-handle
+    - icon: envelope
+      text: Email
+      href: "mailto:you@example.com"
+---
+
+[PLACEHOLDER] Short bio: I am a data analyst and data visualization specialist with a background in health-care quality research at Georgetown. I turn complex data into clear, actionable stories.
+
+## Education
+
+- [PLACEHOLDER] Degree, Georgetown University, Year
+- [PLACEHOLDER] Degree, Institution, Year
+
+## Experience
+
+- [PLACEHOLDER] Job Title, Organization (Start - End): one-line summary
+- [PLACEHOLDER] Job Title, Organization (Start - End): one-line summary
+
+## Skills
+
+- [PLACEHOLDER] Analysis: R, Python, SQL
+- [PLACEHOLDER] Visualization: ggplot2, Tableau, Observable Plot
+- [PLACEHOLDER] Domain: health-care quality measurement, outcomes research

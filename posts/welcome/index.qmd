@@ -1,0 +1,9 @@
+---
+title: "Welcome to my blog"
+description: "[PLACEHOLDER] First post."
+date: 2026-01-20
+categories: [News]
+draft: true
+---
+
+[PLACEHOLDER] Write your first post here. Remove `draft: true` to publish it.

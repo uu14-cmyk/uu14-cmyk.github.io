@@ -1,0 +1,11 @@
+---
+title: "Portfolio"
+listing:
+  contents: projects/*/index.qmd
+  type: grid
+  sort: "date desc"
+  categories: true
+  fields: [image, title, description, date, categories]
+  grid-columns: 3
+page-layout: full
+---
