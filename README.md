@@ -24,3 +24,10 @@ Add a `CNAME` file containing your domain to the project root, list it under `re
 
 ## To fill in
 Name, bio, headshot (`images/headshot.svg`, or swap in a JPG and update `index.qmd`), LinkedIn URL, email, `files/resume.pdf`, and project content.
+
+## Publishing updates (easy way)
+1. Save your changes to the site files.
+2. Double-click `publish.bat`.
+3. Type a short description of what you changed (or just press Enter), then wait for "Published!". Your site updates at https://uu14-cmyk.github.io in 1-2 minutes.
+
+Prefer the manual way? Run `quarto render`, then `git add -A`, `git commit -m "your message"` and `git push`.

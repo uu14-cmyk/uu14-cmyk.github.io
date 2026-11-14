@@ -2,34 +2,33 @@
 title: "Urvashi Suraj"
 about:
   template: trestles
-  image: images/headshot.svg
-  image-alt: "Placeholder headshot"
+  image: images/Urvashi headshot.jpg
+  image-alt: "Urvashi headshot"
   links:
     - icon: github
       text: GitHub
       href: https://github.com/uu14-cmyk
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/your-handle
+      href: https://www.linkedin.com/in/urvashi-suraj/
     - icon: envelope
       text: Email
-      href: "mailto:you@example.com"
+      href: "uu14@georgetown.edu"
 ---
 
-[PLACEHOLDER] Short bio: I am a data analyst and data visualization specialist with a background in health-care quality research at Georgetown. I turn complex data into clear, actionable stories.
+Development sector and finance professional with over 5 years of experience in social protection in India, currently a policy student at Georgetown University with a focus on development economics. I have a background in partnerships and impact assessments, with experience applying quantitative and qualitative methods to inform program design.
 
 ## Education
 
-- [PLACEHOLDER] Degree, Georgetown University, Year
-- [PLACEHOLDER] Degree, Institution, Year
+- Master of International Development Policy, Georgetown University, 2027
+- Chartered Accountant, Institute of Chartered Accountants of India, 2020
 
 ## Experience
 
-- [PLACEHOLDER] Job Title, Organization (Start - End): one-line summary
-- [PLACEHOLDER] Job Title, Organization (Start - End): one-line summary
+- Research Assistant, Georgetown University Initiative on Innovation Development and Evaluation (Gui2de) (Jan 2026 - Present): one-line summary
+- Center for Public and Nonprofit Leadership at Georgetown University, (Aug 2026 - Present): one-line summary
 
 ## Skills
 
-- [PLACEHOLDER] Analysis: R, Python, SQL
-- [PLACEHOLDER] Visualization: ggplot2, Tableau, Observable Plot
-- [PLACEHOLDER] Domain: health-care quality measurement, outcomes research
+- Data Analysis: Quantitative impact evaluation methods, qualitative methods, cost-effectiveness analysis, data visualization, Python, Stata, R, Excel, Tableau, Survey CTO
+- Management: Business development, strategic partnerships, stakeholder management
